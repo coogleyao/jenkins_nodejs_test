@@ -10,6 +10,8 @@
 var arguments = process.argv.splice(2);
  
 var a = 1; 
+var a = 1; 
+
  
  
  
